@@ -1,5 +1,5 @@
 {
-    "name": "cyrildewit/eloquent-viewable",
+    "name": "joniand/eloquent-viewable",
     "description": "Laravel package that allows you to associate views with Eloquent models",
     "type": "library",
     "license": "MIT",
@@ -24,12 +24,12 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/cache": "^6.0|^7.0|^8.0",
-        "illuminate/contracts": "^6.0|^7.0|^8.0",
-        "illuminate/cookie": "^6.0|^7.0|^8.0",
-        "illuminate/database": "^6.0|^7.0|^8.0",
-        "illuminate/http": "^6.0|^7.0|^8.0",
-        "illuminate/support": "^6.0|^7.0|^8.0",
+        "illuminate/cache": "^6.0|^7.0|^8.0|^9.0",
+        "illuminate/contracts": "^6.0|^7.0|^8.0|^9.0",
+        "illuminate/cookie": "^6.0|^7.0|^8.0|^9.0",
+        "illuminate/database": "^6.0|^7.0|^8.0|^9.0",
+        "illuminate/http": "^6.0|^7.0|^8.0|^9.0",
+        "illuminate/support": "^6.0|^7.0|^8.0|^9.0",
         "jaybizzle/crawler-detect": "^1.0",
         "nesbot/carbon": "^2.0"
     },
